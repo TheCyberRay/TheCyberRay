@@ -20,35 +20,35 @@ My journey in **cybersecurity** has led me to develop deep expertise in **penetr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web & Server Vulnerability Scanning          | [Vulnerability Scanner](#) |
+| Web & Server Vulnerability Scanning           | [Vulnerability Scanner](#) |
 | Network Traffic Monitoring & Threat Detection | [Network Monitoring Dashboard](#) |
-| Security Automation & Incident Response      | [SOC Automation Project](#) |
+| Security Automation & Incident Response       | [SOC Automation Project](#) |
 | Encryption & Cryptography                     | [Encryption Suite](#) |
-| SIEM Implementation (Splunk, Elastic)        | [SIEM Threat Hunting](#) |
+| SIEM Implementation (Splunk)                  | [SIEM Threat Hunting](#) |
 
 ## Tools
 
 ### Network
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white)
-![Zeek](https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white)
-
-### Endpoint
-![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)
-![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white)
 
 ### SIEM
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
 
+
+### KALI LINUX
+
 ## Certifications
 
-![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)
-![Network+](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)
-![A+](https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white)
-![CDSA](https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white)
-![CCD](https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white)
+[![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-006F8E?&style=for-the-badge&logo=ISC2&logoColor=white)](https://www.credly.com/badges/911c12dd-234b-42af-a0a0-8d4e-372a54f8/public_url)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/c2fad21c-a61a-4ede-99f0-ed1137e3ec0e/public_url)
+
+[![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1F8ACB?&style=for-the-badge&logo=Cisco&logoColor=white)](https://www.credly.com/badges/580f7234-176d-4566-84e6-aa525203e29b/public_url)
+
+[![IBM Cybersecurity Fundamentals](https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-0062A1?&style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/ac890c60-ce35-4008-b63f-014f636ea652/public_url)
+
 
 ## Projects
 - [Vulnerability Scanner](#)
