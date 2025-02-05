@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-ebonine)
 
-WELCOME TO MY GITHU!
+WELCOME TO MY GITHUB
 
 I'm a Cybersecurity Analyst with a background in Software Engineering, passionate about securing digital environments. I specialize in security operations, network security, penetration testing, and encryption, leveraging tools like Kali Linux, Splunk, Nmap, Metasploit, and Burp Suite to identify and mitigate threats.
 
