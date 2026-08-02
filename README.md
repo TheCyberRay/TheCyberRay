@@ -25,7 +25,7 @@ To leverage my expertise in cybersecurity to build, improve, and automate securi
 | | | | |
 | **Setting Up n8n Locally on Kali Linux with Docker** | Security Automation, Workflow Automation, SOC Process Automation, Docker Deployment | n8n, Docker, Kali Linux | [View Project](https://thecyberray.medium.com/setting-up-n8n-locally-on-kali-linux-using-docker-75cd844f8788) |
 | | | | |
-| **Recovering Access to a Self-Hosted n8n Docker Deployment** | Troubleshooting, Authentication Recovery, Docker Administration, Linux System Management | n8n, Docker, Linux | [View Project](thecyberray.medium.com/recovering-a-forgotten-password-in-a-self-hosted-n8n-docker-deployment-251e073757f5) |
+| **Recovering Access to a Self-Hosted n8n Docker Deployment** | Troubleshooting, Authentication Recovery, Docker Administration, Linux System Management | n8n, Docker, Linux | [View Project](https://thecyberray.medium.com/recovering-a-forgotten-password-in-a-self-hosted-n8n-docker-deployment-251e073757f5) |
 | | | | |
 | **Network Forensics with Wireshark** | Network Traffic Analysis, Packet Analysis, Network Forensics, Incident Investigation | Wireshark, PCAP/PCAPNG | [View Project](https://brindle-stork-f11.notion.site/Network-Forensics-With-Wireshark-Documentation-1-1e0d05b9fa5e808ab764c78062e00961) |
 | | | | |
@@ -47,5 +47,4 @@ To leverage my expertise in cybersecurity to build, improve, and automate securi
 [![IBM Cybersecurity Fundamentals](https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-0062A1?&style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/ac890c60-ce35-4008-b63f-014f636ea652/public_url)
 
 
-
-_Let’s connect! I’m always open to learning, collaborating, and making digital spaces more secure._
+_Let’s connect! I’m always open to collaborations, speaking engagements and making digital spaces more secure._
