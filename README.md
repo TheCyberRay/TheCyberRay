@@ -4,20 +4,25 @@
 
 ## WELCOME TO MY GITHUB
 
-I'm a Cybersecurity Analyst with a Software Engineering background, specializing in security operations, penetration testing, network security and encryption. Certified by ISC2, Google, Cisco, and IBM, I stay up to date in industry trends. With expertise in tools like Kali Linux, Splunk, Burpsuite, Nmap, Metasploit etc. I identify and mitigate threats. As a former cybersecurity instructor, I simplify complex security concepts, and I also excel in SEO writing and front-end development (Wordpress). Fluent in English and conversational in French, I communicate security insights effectively.
+I am a hands-on Cybersecurity Analyst with a Software Engineering background.
+ 
+I specialize in Security Operations (SOC), where I monitor, investigate, and respond to security events. I also build, improve, and help automate security operations to help organizations detect and respond to threats more efficiently.
+ 
+Beyond the SOC, I enjoy making cybersecurity practical and accessible. Through technical writing on Medium (linked at the top of this page), speaking engagements, training sessions, and educational content on LinkedIn, I share hands-on walkthroughs, projects, and lessons to help others grow in cybersecurity. 
 
+Fluent in English and conversational in French, I communicate security insights effectively.
 
 ## OBJECTIVE
-My journey in **cybersecurity** has led me to develop deep expertise in **penetration testing, network security, and encryption**. I am eager to contribute my skills in a **Security Operations Center (SOC) or Red Team environment** as a **Cybersecurity Analyst**.
+To leverage my expertise in cybersecurity to build, improve, and automate security operations that help organizations detect, investigate, and respond to cyber threats effectively. I am eager to contribute my skills in a **Security Operations Center (SOC).
 
 
 ## PROJECT OVERVIEW  
 
 | Project                             | Skills                                      | Tools                      | Link       |
-|-------------------------------------|--------------------------------------------|----------------------------|------------|
-| Web & Server Vulnerability Scanning | Penetration Testing, Exploitation         | Metasploit, Nmap, Nikto    | [Scanner](#) |
+|-------------------------------------|--------------------------------------------|----------------------------|-------------|
+| Building a SOC Ticket               | Penetration Testing, Exploitation         | Metasploit, Nmap, Nikto    | [Scanner](#) |
 |                                     |                                            |                           |              |
-| Building a SIEM                     | Log Management, Security Architecture      | Splunk, ELK, Wazuh        | [SIEM](https://medium.com/bugbountywriteup/how-to-set-up-wazuh-siem-on-kali-linux-with-docker-f1ed697b6bff) |
+| Building a SIEM                     | Log Management, Security Architecture      | Splunk, ELK, Wazuh        | [SIEM]       |
 |                                     |                                            |                           |              |
 | Network Monitoring Dashboard        | Threat Detection, Packet Analysis          | Wireshark, Zeek           | [Monitoring](#) |
 |                                     |                                            |                           |              |
@@ -26,6 +31,27 @@ My journey in **cybersecurity** has led me to develop deep expertise in **penetr
 | SIEM Threat Hunting                 | Log Analysis, Threat Intelligence          | Splunk, Elastic          | [Threat Hunting](#) |
 |                                     |                                            |                           |              |
 | Encryption Suite                    | Data Protection, Cryptography              | OpenSSL, AES             | [Encryption](#) |
+
+
+## 📂 Featured Projects
+
+| Project | Skills Demonstrated | Tools & Technologies | Link |
+|-----------------------------------------|---------------------------------------------------------|---------------------------------------------|-----------------|
+| **Building a SOC Ticketing System with Jira Service Management** | Incident Response, SOC Operations, Case Management, Ticket Lifecycle Management, Workflow Design | Jira Service Management, Atlassian Automation | [View Project](#) |
+| | | | |
+| **Deploying Wazuh SIEM on Kali Linux with Docker** | SIEM Deployment, Log Management, Threat Detection, Security Monitoring, Docker Administration | Wazuh, Docker, Kali Linux | [View Project](#) |
+| | | | |
+| **Setting Up n8n Locally on Kali Linux with Docker** | Security Automation, Workflow Automation, SOC Process Automation, Docker Deployment | n8n, Docker, Kali Linux | [View Project](#) |
+| | | | |
+| **Recovering Access to a Self-Hosted n8n Docker Deployment** | Troubleshooting, Authentication Recovery, Docker Administration, Linux System Management | n8n, Docker, Linux | [View Project](#) |
+| | | | |
+| **Network Forensics with Wireshark** | Network Traffic Analysis, Packet Analysis, Network Forensics, Incident Investigation | Wireshark, PCAP/PCAPNG | [View Project](#) |
+| | | | |
+| **Malware Analysis of a Malicious BMP Image** | Malware Analysis, IOC Extraction, C2 Identification, Threat Analysis, Digital Forensics | CyberChef, VirusTotal, ExifTool, Hex Editor, Strings | [View Project](#) |
+| | | | |
+| **Setting Up a Cybersecurity Home Lab with Kali Linux and VirtualBox** | Virtualization, Linux Administration, Cybersecurity Lab Setup, Environment Configuration | Kali Linux, VirtualBox | [View Project](#) |
+| | | | |
+| **TryHackMe Cybersecurity Walkthroughs** | Defensive Security, Threat Detection, Incident Response, Web Security, Privilege Escalation | TryHackMe, Kali Linux, Nmap, Burp Suite, Wireshark | [View Project](#) |
 
 
 ## CERTIFICATIONS
