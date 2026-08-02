@@ -43,5 +43,4 @@ To leverage my expertise in cybersecurity to build, improve, and automate securi
 [![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1F8ACB?&style=for-the-badge&logo=Cisco&logoColor=white)](https://www.credly.com/badges/580f7234-176d-4566-84e6-aa525203e29b/public_url) [![IBM Cybersecurity Fundamentals](https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-0062A1?&style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/ac890c60-ce35-4008-b63f-014f636ea652/public_url)
 
 
-[![IBM Cybersecurity Certificate](https://img.shields.io/badge/-IBM%20Cybersecurity%20Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/xxx/public_url)
-_Let’s connect! I’m always open to collaborations, speaking engagements and making digital spaces more secure._
+_Let’s connect! I’m always open to collaborations, speaking engagements, and making digital spaces more secure._
