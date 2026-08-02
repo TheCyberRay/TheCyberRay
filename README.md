@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-ebonine)
 
+[![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@thecyberray)
+
 ## WELCOME TO MY GITHUB
 
 I'm a Cybersecurity Analyst with a Software Engineering background, specializing in security operations, penetration testing, network security and encryption. Certified by ISC2, Google, Cisco, and IBM, I stay up to date in industry trends. With expertise in tools like Kali Linux, Splunk, Burpsuite, Nmap, Metasploit etc. I identify and mitigate threats. As a former cybersecurity instructor, I simplify complex security concepts, and I also excel in SEO writing and front-end development (Wordpress). Fluent in English and conversational in French, I communicate security insights effectively.
