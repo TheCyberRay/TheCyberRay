@@ -37,9 +37,9 @@ To leverage my expertise in cybersecurity to build, improve, and automate securi
 
 | Project | Skills Demonstrated | Tools & Technologies | Link |
 |-----------------------------------------|---------------------------------------------------------|---------------------------------------------|-----------------|
-| **Building a SOC Ticketing System with Jira Service Management** | Incident Response, SOC Operations, Case Management, Ticket Lifecycle Management, Workflow Design | Jira Service Management, Atlassian Automation | [View Project](#) |
+| **Building a SOC Ticketing System with Jira Service Management** | Incident Response, SOC Operations, Case Management, Ticket Lifecycle Management, Workflow Design | Jira Service Management, Atlassian Automation | [View Project](https://thecyberray.medium.com/building-a-soc-ticketing-system-with-jira-complete-step-by-step-guide-a5eac6d4ce35) |
 | | | | |
-| **Deploying Wazuh SIEM on Kali Linux with Docker** | SIEM Deployment, Log Management, Threat Detection, Security Monitoring, Docker Administration | Wazuh, Docker, Kali Linux | [View Project](#) |
+| **Deploying Wazuh SIEM on Kali Linux with Docker** | SIEM Deployment, Log Management, Threat Detection, Security Monitoring, Docker Administration | Wazuh, Docker, Kali Linux | [View Project](https://thecyberray.medium.com/how-to-set-up-wazuh-siem-on-kali-linux-with-docker-f1ed697b6bff) |
 | | | | |
 | **Setting Up n8n Locally on Kali Linux with Docker** | Security Automation, Workflow Automation, SOC Process Automation, Docker Deployment | n8n, Docker, Kali Linux | [View Project](#) |
 | | | | |
@@ -49,7 +49,7 @@ To leverage my expertise in cybersecurity to build, improve, and automate securi
 | | | | |
 | **Malware Analysis of a Malicious BMP Image** | Malware Analysis, IOC Extraction, C2 Identification, Threat Analysis, Digital Forensics | CyberChef, VirusTotal, ExifTool, Hex Editor, Strings | [View Project](#) |
 | | | | |
-| **Setting Up a Cybersecurity Home Lab with Kali Linux and VirtualBox** | Virtualization, Linux Administration, Cybersecurity Lab Setup, Environment Configuration | Kali Linux, VirtualBox | [View Project](#) |
+| **Setting Up a Cybersecurity Home Lab with Kali Linux and VirtualBox** | Virtualization, Linux Administration, Cybersecurity Lab Setup, Environment Configuration | Kali Linux, VirtualBox | [View Project](https://theycyberray.medium.com/step-by-step-guide-to-setting-up-a-cybersecurity-home-lab-kali-linux-virtualbox-090a31d1fc22) |
 | | | | |
 | **TryHackMe Cybersecurity Walkthroughs** | Defensive Security, Threat Detection, Incident Response, Web Security, Privilege Escalation | TryHackMe, Kali Linux, Nmap, Burp Suite, Wireshark | [View Project](#) |
 
