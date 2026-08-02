@@ -13,7 +13,7 @@ Beyond the SOC, I enjoy making cybersecurity practical and accessible. Through t
 Fluent in English and conversational in French, I communicate security insights effectively.
 
 ## OBJECTIVE
-To leverage my expertise in cybersecurity to build, improve, and automate security operations that help organizations detect, investigate, and respond to cyber threats effectively. I am eager to contribute my skills in a **Security Operations Center (SOC).
+To leverage my expertise in cybersecurity to build, improve, and automate security operations that help organizations detect, investigate, and respond to cyber threats effectively. I am eager to contribute my skills in a **Security Operations Center (SOC)**.
 
 
 ## PROJECT OVERVIEW  
