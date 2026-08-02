@@ -38,10 +38,12 @@ To leverage my expertise in cybersecurity to build, improve, and automate securi
 
 ## CERTIFICATIONS
 
-[![ISC2 CC](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-006F8E?&style=for-the-badge&logo=ISC2&logoColor=white)] [![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/c2fad21c-a61a-4ede-99f0-ed1137e3ec0e/public_url)
+[![ISC2 CC](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-006F8E?&style=for-the-badge&logo=ISC2&logoColor=white)](#) [![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/c2fad21c-a61a-4ede-99f0-ed1137e3ec0e/public_url)
 
 ![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1F8ACB?&style=for-the-badge&logo=Cisco&logoColor=white)](https://www.credly.com/badges/580f7234-176d-4566-84e6-aa525203e29b/public_url)  
 ![IBM Cybersecurity Fundamentals](https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-0062A1?&style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/ac890c60-ce35-4008-b63f-014f636ea652/public_url)
 
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/c2fad21c-a61a-4ede-99f0-ed1137e3ec0e/public_url)
+
+
 _Let’s connect! I’m always open to collaborations, speaking engagements and making digital spaces more secure._
