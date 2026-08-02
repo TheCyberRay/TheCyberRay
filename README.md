@@ -1,8 +1,6 @@
 # Salut, I'm EBONINE RAYMOND...
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-ebonine)
-
-[![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@thecyberray)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-ebonine) [![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@thecyberray)
 
 ## WELCOME TO MY GITHUB
 
