@@ -17,41 +17,23 @@ To leverage my expertise in cybersecurity to build, improve, and automate securi
 
 
 ## PROJECT OVERVIEW  
-
-| Project                             | Skills                                      | Tools                      | Link       |
-|-------------------------------------|--------------------------------------------|----------------------------|-------------|
-| Building a SOC Ticket               | Penetration Testing, Exploitation         | Metasploit, Nmap, Nikto    | [Scanner](#) |
-|                                     |                                            |                           |              |
-| Building a SIEM                     | Log Management, Security Architecture      | Splunk, ELK, Wazuh        | [SIEM]       |
-|                                     |                                            |                           |              |
-| Network Monitoring Dashboard        | Threat Detection, Packet Analysis          | Wireshark, Zeek           | [Monitoring](#) |
-|                                     |                                            |                           |              |
-| SOC Automation Project              | Incident Response, Security Automation     | TheHive, Shuffle SOAR     | [Automation](#) |
-|                                     |                                            |                           |              |
-| SIEM Threat Hunting                 | Log Analysis, Threat Intelligence          | Splunk, Elastic          | [Threat Hunting](#) |
-|                                     |                                            |                           |              |
-| Encryption Suite                    | Data Protection, Cryptography              | OpenSSL, AES             | [Encryption](#) |
-
-
-## 📂 Featured Projects
-
 | Project | Skills Demonstrated | Tools & Technologies | Link |
 |-----------------------------------------|---------------------------------------------------------|---------------------------------------------|-----------------|
-| **Building a SOC Ticketing System with Jira Service Management** | Incident Response, SOC Operations, Case Management, Ticket Lifecycle Management, Workflow Design | Jira Service Management, Atlassian Automation | [View Project](https://thecyberray.medium.com/building-a-soc-ticketing-system-with-jira-complete-step-by-step-guide-a5eac6d4ce35) |
+| **Building a SOC Ticketing System with Jira** | SOC Ticketing, Case Management, Ticket Lifecycle Management, Incident Response, Workflow Design | Jira, Atlassian Automation | [View Project](https://thecyberray.medium.com/building-a-soc-ticketing-system-with-jira-complete-step-by-step-guide-a5eac6d4ce35) |
 | | | | |
 | **Deploying Wazuh SIEM on Kali Linux with Docker** | SIEM Deployment, Log Management, Threat Detection, Security Monitoring, Docker Administration | Wazuh, Docker, Kali Linux | [View Project](https://thecyberray.medium.com/how-to-set-up-wazuh-siem-on-kali-linux-with-docker-f1ed697b6bff) |
 | | | | |
-| **Setting Up n8n Locally on Kali Linux with Docker** | Security Automation, Workflow Automation, SOC Process Automation, Docker Deployment | n8n, Docker, Kali Linux | [View Project](#) |
+| **Setting Up n8n Locally on Kali Linux with Docker** | Security Automation, Workflow Automation, SOC Process Automation, Docker Deployment | n8n, Docker, Kali Linux | [View Project](https://thecyberray.medium.com/setting-up-n8n-locally-on-kali-linux-using-docker-75cd844f8788) |
 | | | | |
-| **Recovering Access to a Self-Hosted n8n Docker Deployment** | Troubleshooting, Authentication Recovery, Docker Administration, Linux System Management | n8n, Docker, Linux | [View Project](#) |
+| **Recovering Access to a Self-Hosted n8n Docker Deployment** | Troubleshooting, Authentication Recovery, Docker Administration, Linux System Management | n8n, Docker, Linux | [View Project](thecyberray.medium.com/recovering-a-forgotten-password-in-a-self-hosted-n8n-docker-deployment-251e073757f5) |
 | | | | |
-| **Network Forensics with Wireshark** | Network Traffic Analysis, Packet Analysis, Network Forensics, Incident Investigation | Wireshark, PCAP/PCAPNG | [View Project](#) |
+| **Network Forensics with Wireshark** | Network Traffic Analysis, Packet Analysis, Network Forensics, Incident Investigation | Wireshark, PCAP/PCAPNG | [View Project](https://brindle-stork-f11.notion.site/Network-Forensics-With-Wireshark-Documentation-1-1e0d05b9fa5e808ab764c78062e00961) |
 | | | | |
-| **Malware Analysis of a Malicious BMP Image** | Malware Analysis, IOC Extraction, C2 Identification, Threat Analysis, Digital Forensics | CyberChef, VirusTotal, ExifTool, Hex Editor, Strings | [View Project](#) |
+| **Malware Analysis of a Malicious BMP Image** | Malware Analysis, IOC Extraction, C2 Identification, Threat Analysis, Digital Forensics | CyberChef, VirusTotal, ExifTool, Ghidra, Zsteg, hexdump, Strings, Wireshark | [View Project](https://brindle-stork-f11.notion.site/MALWARE-ANALYSIS-IN-A-BMP-IMAGE-1-272d05b9fa5e804fb648df2299c99466) |
 | | | | |
-| **Setting Up a Cybersecurity Home Lab with Kali Linux and VirtualBox** | Virtualization, Linux Administration, Cybersecurity Lab Setup, Environment Configuration | Kali Linux, VirtualBox | [View Project](https://theycyberray.medium.com/step-by-step-guide-to-setting-up-a-cybersecurity-home-lab-kali-linux-virtualbox-090a31d1fc22) |
+| **Setting Up a Cybersecurity Home Lab Using Kali Linux and VirtualBox** | Virtualization, Linux Administration, Cybersecurity Lab Setup, Environment Configuration | Kali Linux, VirtualBox | [View Project](https://theycyberray.medium.com/step-by-step-guide-to-setting-up-a-cybersecurity-home-lab-kali-linux-virtualbox-090a31d1fc22) |
 | | | | |
-| **TryHackMe Cybersecurity Walkthroughs** | Defensive Security, Threat Detection, Incident Response, Web Security, Privilege Escalation | TryHackMe, Kali Linux, Nmap, Burp Suite, Wireshark | [View Project](#) |
+| **TryHackMe Cybersecurity Walkthroughs** | Defensive Security, AI Security, Web Security, Documentation | TryHackMe | [View Project](https://thecyberray.medium.com/list/tryhackme-walkthroughs-e51223a8bb63) |
 
 
 ## CERTIFICATIONS
