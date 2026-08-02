@@ -17,7 +17,7 @@ My journey in **cybersecurity** has led me to develop deep expertise in **penetr
 |-------------------------------------|--------------------------------------------|----------------------------|------------|
 | Web & Server Vulnerability Scanning | Penetration Testing, Exploitation         | Metasploit, Nmap, Nikto    | [Scanner](#) |
 |                                     |                                            |                           |              |
-| Building a SIEM                     | Log Management, Security Architecture      | Splunk, ELK, Wazuh        | [SIEM](#) |
+| Building a SIEM                     | Log Management, Security Architecture      | Splunk, ELK, Wazuh        | [SIEM](https://medium.com/bugbountywriteup/how-to-set-up-wazuh-siem-on-kali-linux-with-docker-f1ed697b6bff) |
 |                                     |                                            |                           |              |
 | Network Monitoring Dashboard        | Threat Detection, Packet Analysis          | Wireshark, Zeek           | [Monitoring](#) |
 |                                     |                                            |                           |              |
